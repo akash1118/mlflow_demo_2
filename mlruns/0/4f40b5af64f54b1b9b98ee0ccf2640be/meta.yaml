@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/4f40b5af64f54b1b9b98ee0ccf2640be/artifacts
+end_time: 1683139768569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f40b5af64f54b1b9b98ee0ccf2640be
+run_name: adorable-perch-441
+run_uuid: 4f40b5af64f54b1b9b98ee0ccf2640be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139768494
+status: 3
+tags: []
+user_id: akash

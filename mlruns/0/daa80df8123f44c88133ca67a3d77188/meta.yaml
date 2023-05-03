@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/daa80df8123f44c88133ca67a3d77188/artifacts
+end_time: 1683139754033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daa80df8123f44c88133ca67a3d77188
+run_name: trusting-mole-297
+run_uuid: daa80df8123f44c88133ca67a3d77188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139753880
+status: 3
+tags: []
+user_id: akash

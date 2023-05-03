@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/695ab834e63f404dac496167899bcd7b/artifacts
+end_time: 1683139756616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 695ab834e63f404dac496167899bcd7b
+run_name: painted-stag-558
+run_uuid: 695ab834e63f404dac496167899bcd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139756542
+status: 3
+tags: []
+user_id: akash

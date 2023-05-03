@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/b6aa854a59984b20992b748d9ed4f96d/artifacts
+end_time: 1683139778493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6aa854a59984b20992b748d9ed4f96d
+run_name: amazing-bee-618
+run_uuid: b6aa854a59984b20992b748d9ed4f96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139778324
+status: 3
+tags: []
+user_id: akash

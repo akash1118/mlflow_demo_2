@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/30ab19f26a5546589b10cb4237361870/artifacts
+end_time: 1683139795934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30ab19f26a5546589b10cb4237361870
+run_name: dazzling-lynx-57
+run_uuid: 30ab19f26a5546589b10cb4237361870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139795855
+status: 3
+tags: []
+user_id: akash

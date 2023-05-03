@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/eb8cabef00794ba38f46e2db217df3a5/artifacts
+end_time: 1683139733856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb8cabef00794ba38f46e2db217df3a5
+run_name: selective-hog-148
+run_uuid: eb8cabef00794ba38f46e2db217df3a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139733774
+status: 3
+tags: []
+user_id: akash

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/1518779e8e544450a504ca7e4169c69a/artifacts
+end_time: 1683139737296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1518779e8e544450a504ca7e4169c69a
+run_name: debonair-steed-937
+run_uuid: 1518779e8e544450a504ca7e4169c69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139737219
+status: 3
+tags: []
+user_id: akash

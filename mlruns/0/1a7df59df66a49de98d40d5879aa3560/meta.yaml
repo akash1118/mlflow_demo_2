@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/1a7df59df66a49de98d40d5879aa3560/artifacts
+end_time: 1683139762234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a7df59df66a49de98d40d5879aa3560
+run_name: adorable-owl-283
+run_uuid: 1a7df59df66a49de98d40d5879aa3560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139762155
+status: 3
+tags: []
+user_id: akash

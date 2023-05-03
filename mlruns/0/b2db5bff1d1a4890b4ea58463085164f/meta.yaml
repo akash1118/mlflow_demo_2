@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/b2db5bff1d1a4890b4ea58463085164f/artifacts
+end_time: 1683139787686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2db5bff1d1a4890b4ea58463085164f
+run_name: popular-mole-46
+run_uuid: b2db5bff1d1a4890b4ea58463085164f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139787601
+status: 3
+tags: []
+user_id: akash

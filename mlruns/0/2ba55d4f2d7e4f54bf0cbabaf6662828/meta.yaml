@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/2ba55d4f2d7e4f54bf0cbabaf6662828/artifacts
+end_time: 1683139713234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ba55d4f2d7e4f54bf0cbabaf6662828
+run_name: whimsical-moth-846
+run_uuid: 2ba55d4f2d7e4f54bf0cbabaf6662828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139713157
+status: 3
+tags: []
+user_id: akash

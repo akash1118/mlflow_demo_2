@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/748c54928ac44deb857d10471f25ed02/artifacts
+end_time: 1683139772340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 748c54928ac44deb857d10471f25ed02
+run_name: salty-hen-13
+run_uuid: 748c54928ac44deb857d10471f25ed02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683139772263
+status: 3
+tags: []
+user_id: akash
