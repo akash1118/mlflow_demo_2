@@ -1,0 +1,9 @@
+name: E:\ML_Flow\mlflow_demo_1\env
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.7.16=h6244533_0
+  - pip:
+    - mlflow==1.30.1
+
